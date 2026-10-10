@@ -212,7 +212,7 @@ P.update({'right_shoulder_drop':2.8,'upper_post_bottom':6.25,'upper_post_diamete
 test = rounded_box(L, W, 2.4, r)
 frame_wall = ring(L, W, 7.0, r, wall).translate((0,0,4.7))
 test = test.union(frame_wall)
-# Service openings are excluded from the generic footprint test frame in V0.8.
+# Service openings are excluded from the generic footprint test frame.
 for x in (-P['mount_pitch_x']/2, P['mount_pitch_x']/2):
     for y in (-P['mount_pitch_y']/2, P['mount_pitch_y']/2):
         post = cq.Workplane('XY').center(x,y).workplane(offset=1.2).circle(P['standoff_diameter']/2).extrude(P['standoff_height'])

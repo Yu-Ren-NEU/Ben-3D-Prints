@@ -8,7 +8,7 @@ A three-piece desktop enclosure for the **Waveshare SIM7600X 4G HAT fitted with 
 
 | Directory | Contents |
 |---|---|
-| [enclosure](enclosure/) | Final V0.32 base, lid carrier and top cover; STL, STEP, parameters, CadQuery source and assembly preview |
+| [enclosure](enclosure/) | Final base, lid carrier and top cover; STL, STEP, parameters, CadQuery source and assembly preview |
 | [plugins](plugins/) | Original small robot; larger astronaut, square-headed cat and retro TV; printable STL and previews |
 
 Print one each of `base.stl`, `lid-carrier.stl` and `top-cover.stl`. Suggested colors are black for the base/carrier and limestone white for the cover. PETG was chosen for the working enclosure. STEP, Python, JSON and PNG files do not need printing. Import STLs in **millimeters**.
