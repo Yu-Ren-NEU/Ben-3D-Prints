@@ -1,4 +1,4 @@
-# SIM7600 enclosure
+# Waveshare SIM7600CE 4G HAT Enclosure
 
 Print `base.stl`, `lid-carrier.stl`, and `top-cover.stl` at 100% scale in millimeters. Use black PETG for the base and carrier, and limestone-white PETG for the top. STEP files are editable geometry; JSON records dimensions, PNG is a preview, and Python is CAD source. Only the STL files need printing.
 

@@ -1,4 +1,4 @@
-# SIM7600 iMessage Gateway — enclosure and figurines
+# Waveshare SIM7600CE 4G HAT Enclosure
 
 A three-piece desktop enclosure for the **Waveshare SIM7600X 4G HAT fitted with a SIM7600CE-T module**, plus interchangeable decorative figurines. It houses the USB-connected SMS gateway described in [SMS-iMessage-Gateway](https://github.com/Yu-Ren-NEU/SMS-iMessage-Gateway). The software forwards SIM-card SMS to iMessage and accepts iMessage commands to send SMS. This directory contains the printable hardware, not the forwarding software.
 
